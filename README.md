@@ -34,4 +34,4 @@ numpy
 seaborn
 ```
 
-![ood](assets/ood-alien-from-doctor-who.jpg)
+![ood](assets/ood-alien-from-doctor-who-coloring-page.jpg)
